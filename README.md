@@ -5,6 +5,9 @@ A collection of data engineering projects focused on building end-to-end data pi
 ## Projects
 
 ### 1. [E-Patent (Patent Analysis)](https://github.com/hamzaae/Big-Data-Project-Patent-Analysis)
+![image](https://github.com/user-attachments/assets/1703518e-b2f5-4e33-b080-5d9ceebb9ff9)
+![image](https://github.com/user-attachments/assets/9bfd1f3a-ac3b-4bfa-a91e-7f409b4fce3e)
+
 An academic project analyzing patents related to Artificial Intelligence in education, aiming to provide insights through a user-friendly web application. Key features include:
 
 - **Data Collection**: Gathers data through APIs and web scraping.
@@ -15,6 +18,8 @@ An academic project analyzing patents related to Artificial Intelligence in educ
 The goal is to deliver both personalized and general analyses of patents, making research more accessible.
 
 ### 2. [Real-Time People Count Pipeline](https://github.com/hamzaae/Real_Time_People_Monitor)
+![image](https://github.com/user-attachments/assets/a41a994b-5829-46c6-95d1-96d7905b4d9b)
+
 A Lambda architecture pipeline designed to count people in various zones of a market in real-time, generating valuable insights based on the flow of individuals. Main features:
 
 - **Object Detection**: Uses YOLOv5 with Python to detect and count people.
