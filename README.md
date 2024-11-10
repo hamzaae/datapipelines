@@ -26,6 +26,8 @@ A Lambda architecture pipeline designed to count people in various zones of a ma
 This project demonstrates the use of real-time data processing for operational intelligence in commercial settings.
 
 ### 3. [GitHub Trending Repos](https://github.com/hamzaae/GitHub-Trending-Repos)
+![image](https://github.com/user-attachments/assets/b42ee071-c48d-4ee5-9f1f-18006c705d13)
+
 An end-to-end data engineering project tracking and displaying daily trending GitHub repositories. Designed to showcase the complete data engineering process, it combines data collection, transformation, storage, and visualization using various tools and platforms:
 
 - **Data Collection**: Uses the GitHub REST API to collect insights on trending repositories.
@@ -39,6 +41,8 @@ An end-to-end data engineering project tracking and displaying daily trending Gi
 > **Note**: This project is designed with an educational focus, demonstrating the use of various tools across different stages of data engineering.
 
 ### 4. [Avito Product Tracking](https://github.com/hamzaae/Avito-Product-Track)
+![image](https://github.com/user-attachments/assets/362f8956-1981-4150-9543-ba867cb0aabe)
+
 An exciting data engineering project focused on tracking product data on Avito to analyze market trends and pricing. The pipeline includes data extraction, transformation, and storage, using key data engineering tools and techniques:
 
 - **Data Extraction**: Web scraping with BeautifulSoup in Python to collect product data from Avito.
